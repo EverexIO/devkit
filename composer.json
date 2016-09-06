@@ -1,14 +1,14 @@
 {
-    "name": "amilabs/devkit",
+    "name": "everexio/devkit",
     "type": "project",
     "description": "",
     "keywords": [],
-    "homepage": "http://amilabs.co",
+    "homepage": "https://everex.io",
     "license": "Apache 2.0",
     "authors": [
         {
-            "name": "AmiLabs",
-            "homepage": "http://amilabs.co"
+            "name": "Everex",
+            "homepage": "https://everex.io"
         }
     ],
     "require": {
