@@ -27,6 +27,5 @@ class Composer {
     public static function postUpdate(Event $oEvent){
         FS::mkDir('log');
         FS::mkDir('tmp');
-        FS::mkDir('db');
     }
 }
